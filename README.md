@@ -1,7 +1,7 @@
-# OSP Resources
+# Resources
 
 Most importantly... 
-## OSP Data Providers
+## Data Providers
 ### All (Please propose more via PR.)
 - Open Corporates
 - Open Secrets
